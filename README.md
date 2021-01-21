@@ -1,7 +1,6 @@
 # OctoberCms-developers-test
-Test for OctoberCMS developer
 
-Создать плагин-каталог.
+Тестовое задание - создать плагин-каталог для OctoberCMS.
 
 ## Модели:
 
